@@ -1,7 +1,7 @@
 # cvmvcf
 ## _cvmvcf is my spinoff of pyvcf_
 
-Pyvcf is currently not being maintained actively. This package helps those who want to parse vcf and are looking for similar functinality as pyvcf.
+This package helps those who want to parse vcf and are looking for similar functinality as pyvcf as currently pyvcf is currently not being maintained actively. 
 
 ## How to work with cvmvcf
 
