@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: cvmvcf
+Version: 0.0.1
+Summary: K&H VCF Parser
+Author: Vamsi Mohan Challa
+Author-email: vmchalla@khdreamlife.com
+Keywords: python,first package
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: GenePoweRx Employees
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Ubuntu :: Linux
+
+VCF Parser for VCF versions 4.0 and 4.1 at GenePoweRx

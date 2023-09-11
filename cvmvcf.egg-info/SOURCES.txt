@@ -1,0 +1,9 @@
+setup.py
+cvmvcf/__init__.py
+cvmvcf/model.py
+cvmvcf/parser.py
+cvmvcf/utils.py
+cvmvcf.egg-info/PKG-INFO
+cvmvcf.egg-info/SOURCES.txt
+cvmvcf.egg-info/dependency_links.txt
+cvmvcf.egg-info/top_level.txt
